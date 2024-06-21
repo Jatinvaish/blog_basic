@@ -1,3 +1,8 @@
+This is a practical task of compnay ES healthcare 
+Due to very limited time front end is not that much good enough you can fork it and make it as your boiler plat for mern stack 
+   - it includes authentication 
+   - crud functionality
+   - protected routes like concepts.
 This is a mern stack basic blog app repo with login, register and blog crud functionlaity.
 
 
